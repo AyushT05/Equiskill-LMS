@@ -8,6 +8,8 @@ import { ClerkProvider, GoogleOneTap } from "@clerk/nextjs";
 
 
 export const metadata = {
+  title: "Equiskill-AI"
+  
 };
 
 const outfit = Montserrat({subsets:['latin']});
